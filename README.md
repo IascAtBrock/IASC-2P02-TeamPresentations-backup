@@ -2,6 +2,6 @@
 Zotero
 
 # Project url
-[](https://www.zotero.org/)
+[Zotero](https://www.zotero.org/)
 
 # Notes
