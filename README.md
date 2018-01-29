@@ -1,7 +1,7 @@
 # Project
-MLA Commons 
+Humanities Commons 
 
 # Project url
-[MLA Commons](https://mla.hcommons.org/)
+[Humanities Commons](https://hcommons.org/)
 
 # Notes
