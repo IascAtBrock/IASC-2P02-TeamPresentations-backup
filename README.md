@@ -1,5 +1,4 @@
-# Project
-Zotero
+# Zotero
 
 # Project url
 [Zotero](https://www.zotero.org/)
