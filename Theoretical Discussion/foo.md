@@ -2,7 +2,7 @@ Theoretical discussion is focusing around the idea of "Creating Space"
 
 HC is a network topology
 
-#Reference works:
+# Reference works:
 
 http://dhdebates.gc.cuny.edu/debates/text/50
 
