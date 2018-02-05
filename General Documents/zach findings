@@ -1,0 +1,38 @@
+# Zachs Findings 
+Project introduction/overview:  
+• What are the main goals of the project, tool, or platform? What does it seek to accomplish?  
+ 
+The prefix “hyper” refers to multiplicity and abundance. More than a physical space, a hypercity is a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities. Hypercities are always under construction 
+ 
+• What argument does the project make?  
+ 
+HyperCities is a digital research and educational platform for exploring, learning about, and interacting with the layered histories of city and global spaces 
+ 
+• What are its main features? Give us an overview of available features and show us how to use the tool.  
+ 
+• Who works on the project? 
+ • How is it funded? 
+ 
+ • Where is it located (what universities, organizations, etc.)?  
+• What ﬁeld is it situated in? Is it a mapping environment, a digital repository, a text analysis tool, or something else? 
+ 
+ 
+The prefix “hyper” refers to multiplicity and abundance. More than a physical space, a hypercity is a real city overlaid with information networks that document the past, catalyze the present, and project future possibilities. Hypercities are always under construction 
+ 
+ 
+Developed by  
+Todd Presner is Professor of Germanic Languages and Comparative Literature at the University of California Los Angeles.  He is the Chair of UCLA’s Digital Humanities Program and also the Sady and Ludwig Kahn Director of the UCLA Center for Jewish Studies. With Anne Burdick, Johanna Drucker, Peter Lunenfeld, and Jeffrey Schnapp, he is the co-author of Digital_Humanities (MIT Press, 2012). His collaborative research and teaching has been supported by the MacArthur Foundation/HASTAC, NEH, Mellon, and Google. 
+  
+David Shepard (PhD, English, UCLA) is the Lead Academic Developer at the UCLA Center for Digital Humanities and a former Visiting Assistant Professor of Digital Humanities at the University of California, Los Angeles. In 2010, he and Presner received one of the inaugural Google Digital Humanities Awards for HyperCities GeoScribe, a tool for literary mapping. His current research examines event detection and tracking in social media, focusing on users’ behavior during crises. 
+  
+Yoh Kawano is Campus GIS Coordinator at the Institute for Digital Research and Education and lecturer in the School of Public Affairs at the University of California, Los Angeles. Following the Great Tohoku Earthquake in Japan, Yoh has been busy researching the potential that the social web can have in post-disaster relief. In the inaugural TEDxUCLA event in 2011, he spoke of ways that locational technologies can provide immediate and real-time opportunities for crisis management. 
+ 
+Funded  
+ 
+Developed though collaboration between UCLA, USC, CUNY, and numerous community-based organizations, the fundamental idea behind HyperCities is that all histories "take place" somewhere and sometime, and that they become more meaningful when they interact and intersect with other histories. 
+ 
+Info  
+ 
+Developed using Google's Map and Earth APIs, research and teaching projects within HyperCities bring together the analytic tools of GIS, the geo-markup language KML, and traditional methods of humanistic inquiry.  
+ 
+Technically speaking, HyperCities is a generalizable, easily scalable data model for linking together and publishing geo-temporal content using a unified front-end delivery system and a distributed back-end architecture. HyperCities consists of a geo-temporal markup server and a front-end visualization platform built on the Google Maps/Earth APIs that enable users to explore, manipulate, and contribute to any geographically aware environment. 
