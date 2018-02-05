@@ -3,7 +3,7 @@
 
 Zotero aims to turn the average internet users browsers into a platform that can actively archive anything. Its expected use is for the compiling of sources and references for easy access and referencing across projects.
 
-## What does it seek to accomplish? • What argument does the project make?
+## What does it seek to accomplish? What argument does the project make?
 
 collects all your research in a single, searchable interface. You can add PDFs, images, audio and video files, snapshots of web pages, and really anything else. Zotero automatically indexes the full-text content of your library, enabling you to find exactly what you're looking for with just a few keystrokes.
 
