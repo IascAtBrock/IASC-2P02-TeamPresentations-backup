@@ -5,6 +5,6 @@ Zotero
 [Zotero](https://www.zotero.org/)
 
 # Overview
-see [Overview](myLib/overview.md)
+See [Overview](IASC-2P02-TeamPresentations/overview)
 
 # Notes
