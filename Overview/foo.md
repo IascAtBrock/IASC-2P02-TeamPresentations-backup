@@ -31,3 +31,5 @@ StoryMapJS funding.
 
 Knight Foundation, Robert R. McCormick Foundation (both associated with Northwestern University)
 
+Knight Lab. (2018). StoryMapJS. Retrieved at https://storymap.knightlab.com 
+
