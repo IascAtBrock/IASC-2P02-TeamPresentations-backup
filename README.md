@@ -1,5 +1,7 @@
 # Zotero
 
+![](images/citation_zotero.png)
+
 ## Project url
 [Zotero](https://www.zotero.org/)
 
