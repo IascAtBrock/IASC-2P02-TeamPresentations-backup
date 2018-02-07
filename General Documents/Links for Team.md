@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=YxKIQA-ndok
 
 
 LETS MEET TODAY BEFORE THE CLASS IN MARKET!!
+
+Sounds Good Zach 
+
