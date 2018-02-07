@@ -1,6 +1,7 @@
 ## Digital Scholarship
 
 Building tools that use computational methods to address intellectual ideas, while bringing those ideas to bear on how those tools are used
+
 Applies system level thinking to social, cultural, and intellectual issues
 The use of digital evidence, methods of inquiry, research, publication and preservation to achieve scholarly and research goals.
 Encompasses both scholarly communication using digital media and research on digital media
