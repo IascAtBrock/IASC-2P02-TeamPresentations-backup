@@ -8,3 +8,7 @@
 
 Video Link for Brock Campus
 https://www.youtube.com/watch?v=YxKIQA-ndok
+
+
+
+LETS MEET TODAY BEFORE THE CLASS IN MARKET!!
