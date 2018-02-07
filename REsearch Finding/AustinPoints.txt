@@ -9,6 +9,9 @@ We could not fully utilize the tool to express the more detailed aspects of the 
 
 Limited space, so couldn’t fully express all details. This can be bypassed by creating multiple markers for a single event, but this results in more clutter.
 
+Maps with lots of back and forth can be hard to follow.
+
+
 Usability:
 
 Can easily create visualizations of historical events. 
