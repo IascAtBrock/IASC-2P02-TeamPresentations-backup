@@ -1,5 +1,12 @@
-# IASC-2P02-TeamPresentations
+# Project
+StoryMapjs
 
-# **IMPORTANT!**
+# Project URL
 
-EACH TEAM HAS ITS OWN BRANCH OF THIS REPOSITORY. MAKE SURE YOU ARE CONTRIBUTING TO THE RIGHT BRANCH.
+[StoryMapjs Homepage](https://storymap.knightlab.com/)
+
+# Notes
+
+[Slideshow link](https://drive.google.com/open?id=1TpvivMS9DSkUCglqKD3MxSgffAC6iVZGAQptY_OEvdc)
+
+
