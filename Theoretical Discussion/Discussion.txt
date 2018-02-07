@@ -1,0 +1,23 @@
+**Theoretical Discussion**
+
+**James Murray**
+
+The tool Hypercities touches on two important concepts in digital scholarship. The first is that it is an example of the 
+“playful encounter with digital representation”, as outlined in Alvarado’s The Digital Humanities Situation. To Alvarado, this is one of 
+the two dimensions that form the digital humanities, and can be summarized as the way of “putting things together”. He further specifies 
+that the digital humanities are based on the “Mapping the objects and categories of scholarship onto the rapidly changing, intrinsically 
+plastic but structurally constraining media of digital technology”. In this case, the scholarly objects in question are the historical 
+documents and information that the user overlaid onto the digital mapping service, which can be accounted as the “media of digital 
+technology”. Alvarado’s discussion promotes the use of a tool such as Hypercities to do just this, create a synergy between scholarly \
+articles and digital tools and artifacts.
+
+The second concept is that of capta vs. data, as coined by Drucker. In her article, she states that the representation of information is
+not based on quantitative empirical data, such as statistics and graphs, but through capta, where information is interpreted by the 
+viewer, and thus the information is created with their own beliefs, thoughts and biases in place. Hypercities displays the use of capta 
+as the creator of each specific map looks at what is can be considered data (maps created by GIS software) and implement historical 
+context and specific narrative over it, which can be considered the cohesion of capta and data.
+
+Our group divided our presentation in to pieces that each of us would work on, and separately upload to Github. It was here that we could
+access each other’s work and gain insight into the process in which they think and work. in future collaborative work, it seems that the
+issues tab will become very useful as it acts as some form of bug reporting system, where members can alert others to inconsistencies or 
+errors in either their own work or those around them. 
