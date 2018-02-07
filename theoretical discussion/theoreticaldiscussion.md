@@ -18,7 +18,7 @@ Complexity of the field is also multiplied by the modes of relationship that may
 
 Zotero fits the intersection between computation and textuality
 
-Zotero is a software tool that allows the user to archive research findings the may come across
+Zotero is a software tool that allows the user to archive research findings they may come across
 
 To a humanist, any computational technology is potentially tool, text and metaphor
 
