@@ -1,4 +1,4 @@
-## Theoretical discussion
+## Theoretical Discussion
 
 StorymapJS is a unique digital media display as it incorporates real life information with illustrative details. It can convey both reality and fiction with an understandable use of the distance between points. It is very similar to a GIS display seen in GPS products. GIS is a geographical information display that allows users to convey the location and information of a place. Johanna Drucker mentioned GIS in her article, “Humanities Approaches to Graphical Displays”, she stated that the system can display more than just geographic information.
 
