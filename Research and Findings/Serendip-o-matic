@@ -2,6 +2,9 @@ Serendip-o-matic
 General Notes
 
 Serendip-o-matic is a web-based platform which allows its users to input a body of text, for which it supplies the user with sourced documents and images that have relation to key term in the inputted text.
+It relies on resource libraries from the Digital Public Library of America, Digital Public Library of Australia, Europeana and Flickr Commons. 
+Using these sources, the site gathers public images from these creative commons in order to help visualize the inputted text. This offers users the ability to see their work from a different perspective. 
+This can also be a problem as the public images provided can have no relation to the inputted text or the user's study.
 
   Positive Attributes:
 1) Very basic and easy-to-use
@@ -15,3 +18,14 @@ Serendip-o-matic is a web-based platform which allows its users to input a body 
 
 Serendip-o-matic allows scholars to identify new resources that can help them to expand their understanding of a topic. It will also pick out key words which the user can identify and use in their work.
 Through Serendip-o-matic offering URL links for the user, it allows them to begin their own search for more resources. These can drive the user to find new publishers and articles that they enjoy.
+
+The site Serendip-o-matic is a textbased search engine that looks for key terms in a body of text and proiveds the user with related images and documents.
+Google Arts & Culture is a digital repository that collects/houses works like a virtual museum. 
+
+Main features:
+- Pasting text into its search box
+- Displaying public images related to key terms and sources
+- Displaying documents related to key terms and sources
+- Displaying the key terms used/found
+- Saving images connected to text
+- Showing source of images including URLs 
