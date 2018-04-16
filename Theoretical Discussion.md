@@ -4,6 +4,10 @@ Important roles digital tools play in helping scholars achieve theiracademic goa
 
 Digital scholarship examines how scholars can use digital technologies, such as Google A&C and Serendip-o-matic, to analyze work within their academic discipline. Through this, scholars can analyze digital scans of historical works, such as old paintings and texts, in detail on a&c. This can allow them to comfortably view their work from the comfort of their offices or home without having to travel across the world to see the full effect of the chosen work.
 
+For instance, by using Google A&C a scholar can analyze digital scans of historical works in thorough detail. This allows them to view their work from the comfort of their homes without having to travel great distances to see the full effect.
+
+Using Serendip-o-matic a scholar can discover new images and couments that relate to the topic of study. It allows us to digitally analyze literary texts, in addition to allowing us to pull key points from bodies of text.
+
 *The display of information […] can easily use standard metrics. Par. 25
 Subjective information, that is information whose constitution exhibits its subjective character, deviates from the standard norms by using graphic variables such as intensity of tone, size, color, or other feature to embody its qualities.
 Subjective information can use graphical means to show its inflected character, demonstrating its deviation from standard norms in the way the display looks, or, in dynamic displays, the way it acts. Par. 26 - Drucker*
